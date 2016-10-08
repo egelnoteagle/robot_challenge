@@ -12,4 +12,4 @@ class RobotH
 end
 
 # solution
-
+x = RobotH.new('derek', 'egel').say_full_name

@@ -10,4 +10,5 @@ class RobotB
 end
 
 # solution
-
+x = RobotB.new
+x.get_stock_price("aapl")

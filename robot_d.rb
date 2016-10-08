@@ -7,4 +7,5 @@ class RobotD
 end
 
 # solution
-
+x = RobotD.new('Derek', 'Egel')
+x.initialize

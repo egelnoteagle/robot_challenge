@@ -7,4 +7,6 @@ class RobotC
 end
 
 # solution
+x = RobotC.new
 
+x.initialize

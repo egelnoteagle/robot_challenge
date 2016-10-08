@@ -17,4 +17,6 @@ module CoolRobots
 end
 
 # solution
+CoolRobots::RobotG.new.get_time
 
+CoolRobots::RobotG.new.get_weather('chicago')
